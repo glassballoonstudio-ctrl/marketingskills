@@ -250,3 +250,50 @@ For headlines and CTAs, provide 2-3 options:
 - **email-sequence**: For email copywriting
 - **popup-cro**: For popup and modal copy
 - **ab-test-setup**: To test copy variations
+
+- ---
+
+## Glass Balloon Brand Context — Copywriting
+
+**Brand voice:** Literary, quiet, specific. Not poetic for its own sake.
+
+**Core principles:**
+- Short punchy sentences mixed with longer flowing ones
+- Present tense or timeless tense ("it sits," "it moves")
+- Named pieces treated as characters: "Silver Ripple sits low on the finger"
+- Sensory: weight, light, texture, movement, temperature
+- Emotional resonance without sentiment — name the feeling without explaining it
+- Never salesy. Never enthusiastic. Never breathless.
+- Endings that land — the last sentence closes something
+
+**BANNED WORDS — never use:**
+elevate, unique, timeless, curate, discover, stunning, perfect for, effortless, versatile, must-have, luxurious, sophisticated, game-changer, journey, empower, unleash, transform, amazing, incredible, beautiful (standalone)
+
+**Product description format:**
+1. Open with the feeling or observation the piece creates
+2. Describe physical reality — construction, material, movement
+3. Close with how it's worn or what it says
+4. Final line: material + care (e.g. "Made from 925 sterling silver. Hypoallergenic.")
+5. 60–120 words. Always prose. Never a list.
+
+**Product SEO description (separate from body):**
+- Under 155 characters
+- Lead with material and product type
+- Include primary keyword naturally
+- End with: "Free shipping on first order."
+
+**Alt text format:**
+[what is shown] [material/jewelry type] [context/mood] — Glass Balloon
+Example: East Asian model wearing sterling silver stacking rings, editorial rings portrait — Glass Balloon
+
+**Blog narrative vignette format:**
+3–5 sentences. A specific woman in a specific moment. No explanation. No moral. Just the scene. Written in third person, "she" implied not stated. Sets the emotional context for what follows.
+
+**Materials reference:**
+- 925 sterling silver = fine jewelry tier, hypoallergenic, tarnishes naturally
+- Stainless steel = everyday tier, non-tarnish, durable
+- Gold-plated stainless steel = warm tone, non-tarnish
+- Freshwater pearl = natural, slightly irregular, luminous
+
+**Target customer voice:**
+She is thoughtful about what she wears. She layers deliberately. She knows the difference between a piece that performs and a piece that belongs. NYC energy — after hours, not office hours.
