@@ -360,3 +360,52 @@ node tools/clis/google-ads.js reports get --type ad_performance --date-range las
 - **ab-test-setup**: For structuring creative tests with statistical rigor
 - **marketing-psychology**: For psychological principles behind high-performing creative
 - **copy-editing**: For polishing ad copy before launch
+
+- ---
+
+## Glass Balloon Brand Context — Ad Creative
+
+**Brand:** Glass Balloon Studio — glassballoonstudio.com
+**Products:** 925 sterling silver jewelry + stainless steel jewelry
+**Price range:** Approximately $25–$85 per piece
+**Primary audience:** Women 22–38, NYC-adjacent aesthetic, intentional dressers
+
+**Ad tone:**
+- Quiet confidence. Never asks for attention.
+- Specific over generic — "925 sterling silver wave ring" not "beautiful silver ring"
+- Contrast-based — soft + edge, delicate + structured
+- No exclamation marks. No "Shop now!" energy.
+
+**Ad formats used:**
+- Google Search Ads (primary paid channel)
+- Instagram feed (organic primary)
+- Pinterest (organic secondary)
+
+**Google Ads structure:**
+- Headline 1: Product type + material (e.g. "Sterling Silver Stacking Rings")
+- Headline 2: Differentiator (e.g. "925 Silver · Ships Free")
+- Headline 3: Brand (e.g. "Glass Balloon Studio")
+- Description: 90 chars max. Lead with material. End with offer.
+
+**Current Google Ads status:** Running but unoptimised. No copy testing framework yet.
+
+**Top performing IG content themes (March 2026):**
+1. Hands + flowers + rings — highest reach
+2. Model + editorial setting + jewelry detail
+3. Bear character series — strong engagement
+4. Atmospheric product shots — lower reach
+
+**Key SEO search terms to target in ad copy:**
+- 925 sterling silver rings
+- sterling silver stacking rings
+- pearl choker necklace
+- dainty silver necklace
+- hypoallergenic jewelry
+- stainless steel jewelry
+
+**What NOT to do in Glass Balloon ads:**
+- No lifestyle stock photography
+- No "treat yourself" language
+- No countdown timers or urgency tactics
+- No comparison to competitors
+- No price-leading headlines
