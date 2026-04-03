@@ -327,3 +327,29 @@ and one that belongs. After-hours energy, not office hours.
 **Brand aesthetic:**
 Dark editorial. Near-black (#0F0D0E) + warm ivory (#EDE8E0).
 Cormorant Garamond serif. Cool tone photography. No
+
+## Glass Balloon Analytics Context
+
+**Active data sources:**
+- Google Search Console — verified, sitemap submitted March 31
+- Instagram Insights — manual screenshot review (no native connection)
+- Klaviyo — connected natively
+
+**Search Console monitoring schedule:**
+Every Monday as part of CEO review.
+Key dates: April 7 (check Posts 31+33), April 16 (confirm Posts 35+36 indexed),
+May 1 (all metrics vs baseline).
+
+**IG metrics that matter (in priority order):**
+Saves, profile visits, website clicks, follower growth, reach.
+Vanity metrics (likes) are secondary.
+
+**SEO baseline to beat (Dec 30–Mar 31):**
+19,900 impressions | 29 clicks | 0.1% CTR | position 21.5
+
+**May 1 targets:**
+28,000+ impressions | 120+ clicks | 0.5%+ CTR | position 19 or better
+
+**Key finding from data:**
+Publishing velocity directly drives impressions.
+2 posts/week = accelerated crawling. Slowing down = drop.
