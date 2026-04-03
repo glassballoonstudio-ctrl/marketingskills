@@ -267,3 +267,23 @@ Don't ask all five at once — lead with #1 and #2, then follow up as needed.
 | Planning paid ads informed by research | `paid-ads` |
 | Writing cold email using research on pain/trigger | `cold-email` |
 | Planning content based on discovered topics | `content-strategy` |
+
+---
+
+## Glass Balloon Brand Context
+
+**Brand:** Glass Balloon Studio — glassballoonstudio.com
+**Type:** Direct-to-consumer jewelry brand, Shopify store
+**Products:** 925 sterling silver jewelry + stainless steel jewelry
+**Price range:** $25–$85 per piece
+**Stage:** Content and SEO growth phase — April 2026
+**Team:** Solo founder, works full time — all execution must be time-efficient
+
+**Target customer:**
+Women 22–38. NYC-adjacent aesthetic. Thoughtful about what she wears.
+Layers deliberately. Knows the difference between a piece that performs
+and one that belongs. After-hours energy, not office hours.
+
+**Brand aesthetic:**
+Dark editorial. Near-black (#0F0D0E) + warm ivory (#EDE8E0).
+Cormorant Garamond serif. Cool tone photography. No
