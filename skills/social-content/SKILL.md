@@ -269,7 +269,6 @@ Instead of guessing, analyze what's working for top creators in your niche:
 6. Are you building personal brand, company brand, or both?
 
 ---
----
 
 ## Glass Balloon Brand Context
 
