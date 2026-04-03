@@ -430,3 +430,37 @@ and one that belongs. After-hours energy, not office hours.
 **Brand aesthetic:**
 Dark editorial. Near-black (#0F0D0E) + warm ivory (#EDE8E0).
 Cormorant Garamond serif. Cool tone photography. No
+
+## Glass Balloon SEO Audit Context
+
+**Platform:** Shopify — glassballoonstudio.com
+**Search Console baseline (Dec 30–Mar 31):**
+19,900 impressions | 29 clicks | 0.1% CTR | position 21.5
+Indexed: 74 pages (declining) | Not indexed: 161 (growing)
+
+**Known issues already fixed (April 2):**
+- 69/69 product SEO titles filled
+- 13 URL redirects live
+- 11 blog posts submitted for indexing
+
+**Known issues still open:**
+- 7 blog posts awaiting indexing request (submit April 3)
+- ~15 products missing material sentence in description
+- 5 blog handles splitting authority — consolidate to /blogs/blog/ only
+- 19 collection pages have no body description
+- 38 blog posts never crawled (18 identified, indexing in progress)
+- .atom feed URLs need noindex tag
+
+**Blog handle rule — critical:**
+ALL posts must be under /blogs/blog/ only.
+Never /blogs/jewelry-styling/, /blogs/news/, /blogs/learn-about-jewelry/,
+or /blogs/pov-behind-glass-balloon/
+
+**Targets by May 1, 2026:**
+Impressions: 28,000+ | Clicks: 120+ | CTR: 0.5%+ | Position: 19 or better
+
+**Top queries to protect and grow:**
+glass balloon (446 imp), silver layered necklace (251), pearl bead necklace (234)
+
+**Publishing velocity finding:** 2 posts per week triggers accelerated crawling.
+Never let more than 4 days pass between published posts.
