@@ -198,3 +198,23 @@ and one that belongs. After-hours energy, not office hours.
 Dark editorial. Near-black (#0F0D0E) + warm ivory (#EDE8E0).
 Cormorant Garamond serif. Cool tone photography. No
 
+## Glass Balloon Schema Context
+
+**Platform:** Shopify — theme.liquid for global schema, product templates
+for product-level schema.
+
+**Priority schema types for Glass Balloon:**
+1. Product schema — all 69 active products need price, material, availability
+2. Article schema — all blog posts under /blogs/blog/
+3. BreadcrumbList — collection and product pages
+4. Organization — homepage
+
+**Material values to use in Product schema:**
+- "925 Sterling Silver"
+- "Stainless Steel"
+- "Gold-Plated Stainless Steel"
+- "Freshwater Pearl"
+
+**Price range:** $22–$82 USD
+**Free shipping threshold:** $75 — include in offer schema where relevant.
+**Brand name in schema:** "Glass Balloon"
