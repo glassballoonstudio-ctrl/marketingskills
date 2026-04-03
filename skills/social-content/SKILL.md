@@ -295,3 +295,38 @@ Cormorant Garamond serif. Cool tone photography. No
 - **launch-strategy**: For coordinating social with launches
 - **email-sequence**: For nurturing social audience via email
 - **marketing-psychology**: For understanding what drives engagement
+
+## Glass Balloon Social Content Context
+
+**Every caption request → produce 3 versions:**
+1. Editorial/poetic — sparse, literary, brand voice
+2. Direct/conversational — warm, plain language, relatable
+3. Gift-framing — for someone buying for another person
+
+**Always include with every caption:**
+- Hashtag set as first comment (25–30 tags)
+- Content pillar specified
+- Platform specified
+- Primary goal specified (saves / traffic / conversion)
+- Canva generation brief at end
+
+**Every Reel request → produce:**
+- Hook (first 2 seconds)
+- Shot-by-shot visual direction
+- Audio suggestion
+- Caption (3 versions per above)
+
+**Color palette — current direction:**
+#0F0D0E (near-black) + #EDE8E0 (warm ivory) only.
+No burgundy. No purple. No warm tones.
+Accept: silk/satin drape, dark florals, architectural surfaces, piano keys, pearl lily, hands with florals.
+Reject: warm yellows, bright whites, overly cute props, busy backgrounds.
+
+**The unnamed twin (visual character):**
+Late 20s. East Asian or ambiguous mixed-race. Face turned, covered, or partially visible — never full face forward. No nail polish. Pore-visible skin. Relaxed, uncontrived posture. She is not posing. The camera found her.
+
+**TikTok strategy (launched April 2026):**
+Repurpose every Instagram Reel as TikTok. Add one TikTok-native piece per week. Use blog post content as TikTok scripts. Competitive gap: Ana Luisa has 598K IG but only 28K TikTok.
+
+**Copywriting banned words also apply to all social copy:**
+elevate, unique, timeless, curate, discover, stunning, perfect for, effortless, versatile, must-have, luxurious, sophisticated, game-changer, journey, empower, unleash, transform, amazing, incredible, beautiful (standalone), in today's world, whether you are a, Explore our, look no further
