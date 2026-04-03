@@ -307,3 +307,23 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md). Key analy
 - **seo-audit**: For organic traffic analysis
 - **page-cro**: For conversion optimization (uses this data)
 - **revops**: For pipeline metrics, CRM tracking, and revenue attribution
+
+---
+
+## Glass Balloon Brand Context
+
+**Brand:** Glass Balloon Studio — glassballoonstudio.com
+**Type:** Direct-to-consumer jewelry brand, Shopify store
+**Products:** 925 sterling silver jewelry + stainless steel jewelry
+**Price range:** $25–$85 per piece
+**Stage:** Content and SEO growth phase — April 2026
+**Team:** Solo founder, works full time — all execution must be time-efficient
+
+**Target customer:**
+Women 22–38. NYC-adjacent aesthetic. Thoughtful about what she wears.
+Layers deliberately. Knows the difference between a piece that performs
+and one that belongs. After-hours energy, not office hours.
+
+**Brand aesthetic:**
+Dark editorial. Near-black (#0F0D0E) + warm ivory (#EDE8E0).
+Cormorant Garamond serif. Cool tone photography. No
