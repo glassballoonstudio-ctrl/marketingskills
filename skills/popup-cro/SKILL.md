@@ -472,3 +472,25 @@ and one that belongs. After-hours energy, not office hours.
 **Brand aesthetic:**
 Dark editorial. Near-black (#0F0D0E) + warm ivory (#EDE8E0).
 Cormorant Garamond serif. Cool tone photography. No
+
+## Glass Balloon Popup Context
+
+**Platform:** Klaviyo popup — confirmed live on homepage.
+**Canvas spec:** 780×1000px
+
+**Current popup status:** Live but no welcome flow connected yet.
+Email capture is happening. Nothing follows it. Fix this first.
+
+**Popup voice rules:**
+No urgency. No countdown. No "Don't miss out."
+Offer the brand, not just a discount. If discount offered, frame it as
+a welcome — not a panic button.
+
+**What the popup should not say:**
+"Sign up for exclusive offers" / "Join our newsletter" / "Stay in the loop"
+These are brand voice violations — generic, valueless, expected.
+
+**What it should feel like:**
+An invitation into something. The inner universe framing.
+Short. One line of brand voice + one practical offer line.
+Example direction: "For the pieces you wear like punctuation. 10% off your first order."
