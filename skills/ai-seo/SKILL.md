@@ -396,3 +396,44 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md).
 - **competitor-alternatives**: For building comparison pages that get cited
 - **programmatic-seo**: For building SEO pages at scale
 - **copywriting**: For writing content that's both human-readable and AI-extractable
+
+---
+
+## Glass Balloon Brand Context — SEO
+
+**Store:** glassballoonstudio.com (Shopify)
+**Primary blog handle:** /blogs/blog/ — ALL new posts go here only
+**Secondary handles (do not use for new posts):** /blogs/jewelry-styling/, /blogs/news/, /blogs/learn-about-jewelry/, /blogs/pov-behind-glass-balloon/
+
+**Current SEO metrics (April 2026):**
+- Impressions: 19,900 | Clicks: 29 | CTR: 0.1% | Avg position: 21.5
+- Target by May 1: CTR 0.5%, position ≤19
+
+**Product materials:**
+- 925 sterling silver (primary brand material)
+- Stainless steel (secondary — tarnish-resistant)
+- Gold-plated stainless steel (some pieces)
+- Always specify exact material in SEO titles and descriptions
+
+**SEO title format for products:**
+[Product Name] | [Material] | Glass Balloon
+- Under 60 characters
+- Pipe separator preferred over dash
+- Material must appear as "925 Sterling Silver" or "Stainless Steel"
+
+**Meta description format:**
+- Under 155 characters
+- Lead with material + product type
+- End with: "Free shipping on first order."
+
+**Internal link clusters:**
+- Jewelry care: /blogs/blog/why-sterling-silver-tarnishes-a-no-shame-explanation
+- Styling: /blogs/jewelry-styling/how-to-layer-necklaces-a-gentle-progression-from-simplicity-to-story
+- Identity: /blogs/blog/what-your-jewelry-says-in-the-first-five-seconds
+- Collection: /collections/925-sterling-silver-collection
+
+**Known issues to flag in every SEO audit:**
+- 5 blog handles splitting authority — consolidation pending
+- 13 archived products with no redirects
+- .atom feed URLs need noindex tags
+- Variant URLs (?variant=) creating duplicate content
