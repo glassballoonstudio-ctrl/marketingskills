@@ -200,3 +200,24 @@ and one that belongs. After-hours energy, not office hours.
 **Brand aesthetic:**
 Dark editorial. Near-black (#0F0D0E) + warm ivory (#EDE8E0).
 Cormorant Garamond serif. Cool tone photography. No
+
+## Glass Balloon Page CRO Context
+
+**Platform:** Shopify DTC — glassballoonstudio.com
+**Price range:** $22–$82 | Free shipping over $75
+
+**Highest priority pages to optimise:**
+1. Collection pages — all 19 have empty body descriptions
+2. Product pages — ~15 missing material sentence
+3. Homepage — meta set, but no body copy audit done
+4. /pages/the-pearl-guide — educational page, SEO and conversion potential
+
+**Collection page description format (approved example for rings):**
+"Handmade rings in 925 sterling silver and stainless steel — designed to stack,
+layer, and wear every day without tarnishing. From sculptural statement bands to
+delicate pearl chain rings, each piece is built to be worn, not saved."
+2–3 sentences. Brand voice. Keywords natural. No lists.
+
+**Free shipping nudge:** $75 threshold. Surface in cart and product pages.
+**Hero collection:** /collections/925-sterling-silver-collection
+Every optimisation recommendation should consider driving traffic here.
