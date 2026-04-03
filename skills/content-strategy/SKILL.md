@@ -363,3 +363,53 @@ Visual or structured representation of how content interconnects.
 - **site-architecture**: For page hierarchy, navigation design, and URL structure
 - **email-sequence**: For email-based content
 - **social-content**: For social media content
+
+- ---
+
+## Glass Balloon Brand Context — Content Strategy
+
+**Brand:** Glass Balloon Studio — NYC after-hours editorial jewelry
+**Website:** glassballoonstudio.com
+
+**Content pillars:**
+1. Jewelry intelligence — styling logic, how jewelry works, care
+2. Identity — who she is, what she wears, why it matters
+3. Materiality — 925 sterling silver, pearls, stainless steel
+4. The Bear — character series, NYC after-hours energy
+5. How it's made — craft, sourcing, process
+6. Seasonal / cultural — moments jewelry speaks to
+
+**Blog cadence:** 2 posts per week (Tue + Thu)
+**IG cadence:** 2 posts per week (Tue + Thu, 12pm EST)
+**Pinterest cadence:** Same day as every blog post, 8–11pm EST
+
+**Blog post word count:** 1,500–3,000 words
+**Blog post structure:**
+1. Narrative vignette (3–5 sentences) — specific woman, specific moment
+2. Thesis — what the post is actually about
+3. H2 sections with analytical content
+4. 5+ internal links to other posts or collection pages
+5. Closing vignette or statement echoing the opening
+6. Full SEO package at bottom
+
+**SEO package included with every post:**
+- URL slug
+- Meta title (60 chars max)
+- Meta description (155 chars max)
+- Alt text for featured image
+- Tags
+- Pinterest pin copy (title, description, tags, board, schedule time)
+
+**April 2026 blog pipeline:**
+- Post 32: What to Do With Jewelry You Do Not Wear Anymore — Published
+- Post 33: The Summer Problem — due Apr 7
+- Post 34: The Jewelry She Has Had for Ten Years — due Apr 9
+- Post 35: How to Choose Jewelry as a Gift — due Apr 14 (Mother's Day)
+- Post 36: What to Give a Woman Who Already Has Everything — due Apr 16 (Mother's Day)
+- Post 37: Pearl Jewelry in Summer — due Apr 21
+- Post 38: The Silver Ring You Never Take Off — due Apr 23
+- Post 39: Getting Dressed in Under Three Minutes — due Apr 28
+- Post 40: A Small Thing That Changes Everything — due Apr 30
+
+**Content generation command:**
+When asked to "write post [X]" — generate full post + complete SEO package in one response. Never split across multiple responses.
