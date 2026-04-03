@@ -437,3 +437,29 @@ For implementation, see the [tools registry](../../tools/REGISTRY.md).
 - 13 archived products with no redirects
 - .atom feed URLs need noindex tags
 - Variant URLs (?variant=) creating duplicate content
+
+  ## Glass Balloon SEO Context
+
+**URL format:** /blogs/blog/[keyword-phrase] — ALL new posts to /blogs/blog/ only. Never /blogs/jewelry-styling/, /blogs/news/, /blogs/learn-about-jewelry/, or /blogs/pov-behind-glass-balloon/.
+
+**SEO title format:** Product Name | Material | Glass Balloon — under 60 characters, pipe separator.
+
+**Meta description format:** Under 155 characters. Lead with material + product type. End with "Free shipping on first order." Never start with "Explore our."
+
+**Alt text format:** [what is shown] [material/jewelry type] [context/mood] — Glass Balloon
+
+**Every blog post SEO package includes:**
+- URL slug
+- Meta title (under 60 chars, keyword near front)
+- Meta description (under 155 chars)
+- Alt text for featured image
+- Tags (4–6, always include "glass balloon")
+- 5+ internal links with anchor text and placement noted
+- Pinterest pin title, description, board, tags, schedule
+
+**Internal link priority targets:**
+/collections/925-sterling-silver-collection ← highest priority
+/collections/all-necklaces, /collections/rings, /collections/all-earrings, /collections/all-bracelets
+/pages/jewelry-care, /pages/the-pearl-guide
+
+**Internal link rules:** Never open in new tab for internal links. Link title field: "View the [Name]
