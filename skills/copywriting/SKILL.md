@@ -251,8 +251,6 @@ For headlines and CTAs, provide 2-3 options:
 - **popup-cro**: For popup and modal copy
 - **ab-test-setup**: To test copy variations
 
-- ---
-
 ## Glass Balloon Brand Context — Copywriting
 
 **Brand voice:** Literary, quiet, specific. Not poetic for its own sake.
@@ -267,7 +265,10 @@ For headlines and CTAs, provide 2-3 options:
 - Endings that land — the last sentence closes something
 
 **BANNED WORDS — never use:**
-elevate, unique, timeless, curate, discover, stunning, perfect for, effortless, versatile, must-have, luxurious, sophisticated, game-changer, journey, empower, unleash, transform, amazing, incredible, beautiful (standalone)
+elevate, unique, timeless, curate, discover, stunning, perfect for, effortless, versatile, must-have, luxurious, sophisticated, game-changer, journey, empower, unleash, transform, amazing, incredible, beautiful (standalone), in today's world, whether you are a, Explore our, look no further
+
+**Formatting prohibitions:**
+No em dashes. No hyphens in compound adjectives. No dash-based bullet lists. No staccato fragment sequences. No redundant sections.
 
 **Product description format:**
 1. Open with the feeling or observation the piece creates
@@ -276,24 +277,32 @@ elevate, unique, timeless, curate, discover, stunning, perfect for, effortless, 
 4. Final line: material + care (e.g. "Made from 925 sterling silver. Hypoallergenic.")
 5. 60–120 words. Always prose. Never a list.
 
+**Blog post — five things every post must do:**
+1. Confirm what it's about within the first 150 words
+2. Include at least one small, specific, lived-in moment
+3. Vary sentence length with intention
+4. End with a symbolic takeaway that reframes the subject
+5. Sound like the same person who wrote "The detail they remember long after you've left"
+
+**Blog narrative vignette format:**
+3–5 sentences. A specific woman in a specific moment. No explanation. No moral. Just the scene. Third person, "she" implied not stated. Sets emotional context. 2–3 per post, placed before emotionally weighted sections.
+
+**Caption format — every caption request produces 3 versions:**
+1. Editorial/poetic — sparse, literary, brand voice
+2. Direct/conversational — warm, plain language, relatable
+3. Gift-framing — for someone buying for another person
+
 **Product SEO description (separate from body):**
-- Under 155 characters
-- Lead with material and product type
-- Include primary keyword naturally
-- End with: "Free shipping on first order."
+Under 155 characters. Lead with material + product type. End with "Free shipping on first order."
 
 **Alt text format:**
 [what is shown] [material/jewelry type] [context/mood] — Glass Balloon
-Example: East Asian model wearing sterling silver stacking rings, editorial rings portrait — Glass Balloon
-
-**Blog narrative vignette format:**
-3–5 sentences. A specific woman in a specific moment. No explanation. No moral. Just the scene. Written in third person, "she" implied not stated. Sets the emotional context for what follows.
 
 **Materials reference:**
-- 925 sterling silver = fine jewelry tier, hypoallergenic, tarnishes naturally
-- Stainless steel = everyday tier, non-tarnish, durable
-- Gold-plated stainless steel = warm tone, non-tarnish
-- Freshwater pearl = natural, slightly irregular, luminous
+- 925 sterling silver: fine jewelry tier, hypoallergenic, tarnishes naturally
+- Stainless steel: everyday tier, non-tarnish, durable
+- Gold-plated stainless steel: warm tone, non-tarnish
+- Freshwater pearl: natural, slightly irregular, luminous
 
 **Target customer voice:**
 She is thoughtful about what she wears. She layers deliberately. She knows the difference between a piece that performs and a piece that belongs. NYC energy — after hours, not office hours.
