@@ -177,3 +177,24 @@ You can combine multiple schema types on one page using `@graph`:
 - **ai-seo**: For AI search optimization (schema helps AI understand content)
 - **programmatic-seo**: For templated schema at scale
 - **site-architecture**: For breadcrumb structure and navigation schema planning
+
+---
+
+## Glass Balloon Brand Context
+
+**Brand:** Glass Balloon Studio — glassballoonstudio.com
+**Type:** Direct-to-consumer jewelry brand, Shopify store
+**Products:** 925 sterling silver jewelry + stainless steel jewelry
+**Price range:** $25–$85 per piece
+**Stage:** Content and SEO growth phase — April 2026
+**Team:** Solo founder, works full time — all execution must be time-efficient
+
+**Target customer:**
+Women 22–38. NYC-adjacent aesthetic. Thoughtful about what she wears.
+Layers deliberately. Knows the difference between a piece that performs
+and one that belongs. After-hours energy, not office hours.
+
+**Brand aesthetic:**
+Dark editorial. Near-black (#0F0D0E) + warm ivory (#EDE8E0).
+Cormorant Garamond serif. Cool tone photography. No
+
