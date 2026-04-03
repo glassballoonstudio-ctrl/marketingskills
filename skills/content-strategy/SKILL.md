@@ -413,3 +413,48 @@ Visual or structured representation of how content interconnects.
 
 **Content generation command:**
 When asked to "write post [X]" — generate full post + complete SEO package in one response. Never split across multiple responses.
+
+## Glass Balloon Content Strategy Context
+
+**Platform:** Instagram primary. TikTok launched April 2026. Pinterest active March 2026.
+
+**Content pillars:**
+1. Inner Universe — emotional identity layer
+2. The Piece Itself — material, craft, detail
+3. How to Wear It — styling, layering, combinations
+4. Behind the Brand — process, founders, decisions
+5. The Bear — teddy bear character series, brand mascot
+6. Jewelry Intelligence — education, care, materials, guides
+
+**March 2026 performance findings:**
+- Hands + lily + rings: top performer (678 views)
+- Model face + flowers: 425 views
+- Bear/character series: 403 views — expand this
+- Dark editorial with no warm elements: lowest — reduce
+- Florals outperform dark editorial — adjust scene selection, not palette
+
+**Posting time:** 12pm EST via Later. Audience peaks 12pm–6pm EST.
+
+**Grid audit flags — check before every post:**
+- 2+ consecutive posts same format or color temperature → flag
+- Product with no solo post ever → flag
+- Proposed blog topic already live on site → flag
+- Any image likely under 1536px → flag
+
+**Audience:** 86.1% women. Core age 25–34 (35.6%). Secondary 18–24 and 35–44.
+
+**8-slide carousel structure:**
+Slide 1: Cover — full bleed image + extreme type scale (120–180pt headline)
+Slide 2: Content — ivory background + editorial grid
+Slides 3–4: Dark photo + gradient fade + large type
+Slide 5: Pure image, brand mark only
+Slide 6: Type-only dark (statement slide)
+Slide 7: Dark photo + type
+Slide 8: Ivory CTA — glassballoonstudio.com
+
+**Canva brand kit IDs:** kAGkvWsmRPQ (Glass Balloon v2) or kAHFi6HsClI (GB V3)
+
+**Canvas specs:**
+- IG Feed: 1080×1350px (4:5)
+- IG Reel/Story: 1080×1920px (9:16)
+- Pinterest: 1000×1500px (2:3)
