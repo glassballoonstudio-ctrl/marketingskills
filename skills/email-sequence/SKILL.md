@@ -329,3 +329,31 @@ and one that belongs. After-hours energy, not office hours.
 **Brand aesthetic:**
 Dark editorial. Near-black (#0F0D0E) + warm ivory (#EDE8E0).
 Cormorant Garamond serif. Cool tone photography. No
+
+## Glass Balloon Email Context
+
+**Platform:** Klaviyo. Popup live on homepage. No flows built yet.
+
+**Three flows to build in order:**
+1. Welcome series — 3 emails over 7 days after signup
+2. Abandon cart — 1 hour trigger + 24 hour reminder
+3. Post-purchase — thank you + care guide + product recommendation
+
+**Welcome series structure:**
+Email 1 (immediate): Brand story. Who she is. The twin founders. NYC + SF.
+Not a discount. An introduction.
+Email 2 (day 3): The 925 sterling silver collection. One product featured.
+Soft CTA — browse, not buy.
+Email 3 (day 7): Education. How to care for sterling silver. Links to
+/pages/jewelry-care and /blogs/blog/how-to-clean-sterling-silver-at-home-without-panic.
+Offer if appropriate.
+
+**Voice rules for email:**
+Same as all Glass Balloon copy — literary, quiet, specific.
+Subject lines: short, no punctuation tricks, no emoji, no "YOU WON'T BELIEVE"
+Preheader: continues the subject line thought, doesn't repeat it.
+No countdown timers in brand emails. No fake urgency.
+
+**Free shipping threshold:** $75 — mention naturally in cart/abandon flows.
+
+**Banned words apply in full.**
