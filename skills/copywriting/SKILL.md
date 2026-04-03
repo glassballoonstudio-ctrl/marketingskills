@@ -253,56 +253,168 @@ For headlines and CTAs, provide 2-3 options:
 
 ## Glass Balloon Brand Context — Copywriting
 
-**Brand voice:** Literary, quiet, specific. Not poetic for its own sake.
+**THIS SECTION OVERRIDES ALL GENERIC PRINCIPLES ABOVE FOR GLASS BALLOON.**
 
-**Core principles:**
-- Short punchy sentences mixed with longer flowing ones
-- Present tense or timeless tense ("it sits," "it moves")
-- Named pieces treated as characters: "Silver Ripple sits low on the finger"
-- Sensory: weight, light, texture, movement, temperature
-- Emotional resonance without sentiment — name the feeling without explaining it
-- Never salesy. Never enthusiastic. Never breathless.
-- Endings that land — the last sentence closes something
+When writing any content for Glass Balloon — blog posts, captions, emails, 
+product descriptions, popups, or any other format — ignore the conversion 
+copywriting framework above entirely. Glass Balloon is not a SaaS product. 
+The rules below are the only rules that apply.
 
-**BANNED WORDS — never use:**
-elevate, unique, timeless, curate, discover, stunning, perfect for, effortless, versatile, must-have, luxurious, sophisticated, game-changer, journey, empower, unleash, transform, amazing, incredible, beautiful (standalone), in today's world, whether you are a, Explore our, look no further
+---
 
-**Formatting prohibitions:**
-No em dashes. No hyphens in compound adjectives. No dash-based bullet lists. No staccato fragment sequences. No redundant sections.
+### Voice
 
-**Product description format:**
+Literary, quiet, specific. Not poetic for its own sake.
+
+Short punchy sentences mixed with longer flowing ones. The rhythm is 
+intentional. A four-word sentence followed by a twenty-word one. Never 
+three short sentences in a row. Never two long ones back to back.
+
+Present tense or timeless tense. "It sits." "It moves." "She reaches for it 
+without thinking."
+
+Named pieces treated as characters. "Silver Ripple sits low on the finger." 
+"The chain falls exactly where it should."
+
+Sensory and specific. Weight, light, texture, movement, temperature. Not 
+"beautiful" or "stunning." The feeling itself, named plainly.
+
+Emotional resonance without sentiment. Name the feeling. Do not explain it. 
+Do not tell the reader how to feel about it.
+
+Never salesy. Never enthusiastic. Never breathless. No exclamation points. 
+Ever.
+
+Endings that land. The last sentence of any piece closes something. It does 
+not trail off. It does not summarise. It reframes.
+
+---
+
+### What Glass Balloon copy is never allowed to do
+
+No em dashes. Not one. Not anywhere.
+
+No hyphens in compound adjectives.
+
+No staccato fragment sequences. Three short sentences in a row is a pattern 
+to break immediately.
+
+No bold headers used as bullet leads. "**Chains:** A fine chain..." is a 
+list pretending to be prose. Write it as prose.
+
+No dash-based bullet lists.
+
+No redundant sections that restate what was just said.
+
+No CTAs that sound like marketing. "Shop now" is not Glass Balloon. 
+"See the collection" is.
+
+No questions used as section hooks. "What does summer do to your jewelry?" 
+is generic. Just answer it.
+
+---
+
+### BANNED WORDS — absolute, no exceptions
+
+elevate, unique, timeless, curate, discover, stunning, perfect for, 
+effortless, versatile, must-have, luxurious, sophisticated, game-changer, 
+journey, empower, unleash, transform, amazing, incredible, beautiful 
+(standalone), in today's world, whether you are a, Explore our, look no 
+further
+
+---
+
+### Blog posts
+
+Every post must do five things:
+1. Confirm what it is about within the first 150 words
+2. Include at least one small, specific, lived-in moment
+3. Vary sentence length with intention throughout
+4. End with a symbolic takeaway that reframes the subject
+5. Sound like the same person who wrote "The detail they remember long 
+after you've left"
+
+Structure:
+1. Opening narrative vignette (3-5 sentences)
+2. Thesis paragraph — what this post is actually about
+3. H2 sections written as flowing prose, no bullet leads, no bold headers 
+acting as lists
+4. 5+ internal links placed naturally within sentences
+5. Closing vignette or statement that echoes the opening
+
+Length: 1,500-3,000 words.
+
+Narrative vignette format: 3-5 sentences. A specific woman in a specific 
+moment. No explanation. No moral. Just the scene. Third person, "she" 
+implied not stated. Sets emotional context for what follows. Use 2-3 per 
+post, placed before emotionally weighted sections.
+
+The self-check before submitting any blog post:
+- Are there any em dashes? Remove them all.
+- Are there any bolded words acting as bullet leads? Rewrite as prose.
+- Are there three or more short sentences in a row? Break the pattern.
+- Does the opening confirm the topic within 150 words? If not, tighten.
+- Does the ending close something? If it just stops, rewrite it.
+- Are any banned words present? Replace every one.
+
+---
+
+### Product descriptions
+
 1. Open with the feeling or observation the piece creates
 2. Describe physical reality — construction, material, movement
-3. Close with how it's worn or what it says
-4. Final line: material + care (e.g. "Made from 925 sterling silver. Hypoallergenic.")
-5. 60–120 words. Always prose. Never a list.
+3. Close with how it is worn or what it says
+4. Final line: material + care statement
+5. 60-120 words. Always prose. Never a list.
 
-**Blog post — five things every post must do:**
-1. Confirm what it's about within the first 150 words
-2. Include at least one small, specific, lived-in moment
-3. Vary sentence length with intention
-4. End with a symbolic takeaway that reframes the subject
-5. Sound like the same person who wrote "The detail they remember long after you've left"
+SEO product description (separate field, not body copy):
+Under 155 characters. Lead with material and product type. End with 
+"Free shipping on first order."
 
-**Blog narrative vignette format:**
-3–5 sentences. A specific woman in a specific moment. No explanation. No moral. Just the scene. Third person, "she" implied not stated. Sets emotional context. 2–3 per post, placed before emotionally weighted sections.
+---
 
-**Caption format — every caption request produces 3 versions:**
+### Captions
+
+Every caption request produces three versions:
 1. Editorial/poetic — sparse, literary, brand voice
-2. Direct/conversational — warm, plain language, relatable
-3. Gift-framing — for someone buying for another person
+2. Direct/conversational — warm, plain language, relatable  
+3. Gift-framing — written for someone buying for another person
 
-**Product SEO description (separate from body):**
-Under 155 characters. Lead with material + product type. End with "Free shipping on first order."
+Always include: hashtag set as first comment (25-30 tags), content pillar, 
+platform, primary goal (saves / traffic / conversion), Canva brief at end.
 
-**Alt text format:**
+---
+
+### Emails
+
+Subject lines: short, plain, no punctuation tricks, no emoji.
+Preheader: continues the subject line thought. Does not repeat it.
+No countdown timers. No fake urgency. No "limited time."
+Same voice rules as all Glass Balloon copy.
+
+---
+
+### Alt text format
+
 [what is shown] [material/jewelry type] [context/mood] — Glass Balloon
 
-**Materials reference:**
-- 925 sterling silver: fine jewelry tier, hypoallergenic, tarnishes naturally
-- Stainless steel: everyday tier, non-tarnish, durable
-- Gold-plated stainless steel: warm tone, non-tarnish
-- Freshwater pearl: natural, slightly irregular, luminous
+Example: Sterling silver stacking rings on hands with lily flowers, 
+editorial rings portrait — Glass Balloon
 
-**Target customer voice:**
-She is thoughtful about what she wears. She layers deliberately. She knows the difference between a piece that performs and a piece that belongs. NYC energy — after hours, not office hours.
+---
+
+### Materials
+
+925 sterling silver: fine jewelry tier, hypoallergenic, tarnishes naturally
+Stainless steel: everyday tier, non-tarnish, durable
+Gold-plated stainless steel: warm tone, non-tarnish
+Freshwater pearl: natural, slightly irregular, luminous
+
+---
+
+### Target customer
+
+She is thoughtful about what she wears. She layers deliberately. She knows 
+the difference between a piece that performs and a piece that belongs. 
+NYC energy — after hours, not office hours. She does not need to be told 
+what to feel. She already knows.
